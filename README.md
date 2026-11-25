@@ -15,7 +15,7 @@ HTML5
 Git et GitHub
 GitHub Pages pour la mise en ligne
 Lien du site en ligne
-https://ophielladzulamedzi-hue/ipnet-it130/
+https://ophielladzulamedzi-hue/ipnet-it130.git
 
 Comment voir le projet ?
 Ouvrir le lien ci-dessus dans le navigateur
